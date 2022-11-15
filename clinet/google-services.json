@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1024616153813",
+    "project_id": "findkid",
+    "storage_bucket": "findkid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024616153813:android:63ef75bc365e313897d85c",
+        "android_client_info": {
+          "package_name": "com.ericpinel.clinet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024616153813-bc21qmfdpocnlfs8m70a083he6pabic6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ericpinel.clinet",
+            "certificate_hash": "1268d8bef4c310af4a1ab29aeb02995c22e80e12"
+          }
+        },
+        {
+          "client_id": "1024616153813-udb1mihs7botg883cb6mcjfjpp9dmbul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ericpinel.clinet",
+            "certificate_hash": "511700c600b27ac851aa0108d2dc34798d29db39"
+          }
+        },
+        {
+          "client_id": "1024616153813-u3p351nvv6tfjvlfmp6i8bku41u6mcn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJheGFKSCMaY62ohf_eld0gq171hcY0F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024616153813-u3p351nvv6tfjvlfmp6i8bku41u6mcn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
